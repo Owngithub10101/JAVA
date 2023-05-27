@@ -1,5 +1,4 @@
-# 🥇 Competitive Programming Repository
-
+# 🥇 Competitive Programming
 
 This repository contains my solutions and code snippets for competitive programming challenges.
 
