@@ -1,4 +1,4 @@
-# Contributing Guidelines
+# 📊 Contributing Guidelines
 
 Contributions to the Competitive Programming Repository are welcome! If you have solved a programming challenge, discovered a bug, or have an improvement to an existing solution, please follow the guidelines below to contribute:
 
